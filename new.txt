@@ -1,0 +1,5 @@
+
+FIO: Liza-Vika Alekseevna Korbut
+Age: 20
+Animal: 1
+Salary: 500
