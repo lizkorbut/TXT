@@ -1,4 +1,4 @@
-Bug_id: 23
+Bug_id: 1
 Title: Widgets move  to free space on others pages after changing the desktop grid from 4x6 to 5x6
 
   Severity: Major
