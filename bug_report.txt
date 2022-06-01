@@ -1,0 +1,21 @@
+Bug_id: 23
+Title: Widgets move  to free space on others pages after changing the desktop grid from 4x6 to 5x6
+
+  Severity: Major
+  Priority: Medium
+  Environment: 1) Xiaomi Redmi Note 7, Android 10, QKQ1.190910.002, MIUI  global 12.5.1 (and 12.5.3)
+		      
+Precondition: 
+  1) Desktop grid is 4x6
+  2) There are 2 pages: № 1 with any number of apps with free space, № 2 with the app “AndroidGridTest” 
+
+STR:
+  1) Add a widget (widget  size by default)
+  2) Change a desktop grid from 4x6 to 5x6
+
+AR: widget moves to page № 1 from page № 2 
+ER: widget stays on page № 2 
+
+ Attachments: screenshots
+
+Comment: the setting “fill empty cells” doesn’t affect on this case
