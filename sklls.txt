@@ -1,0 +1,8 @@
+Testing theory,
+HHTP methods of requests to the server, 
+JSON,XML,
+API testing,
+Mobile testing, 
+creating test documentation 
+(check Lists,test Cases,test Outlines, bagReports),
+agile methodologies
